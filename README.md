@@ -1,6 +1,6 @@
 # Projeto -- Previsão de Compras em E-Commerce
 
-Autor: Leonardo Souza
+Autor: Leonardo Souza <br>
 Data Criação: 07/03
 
 ## 1. Visão Geral
